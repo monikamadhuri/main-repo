@@ -14,3 +14,4 @@ let str2 = "12321";
 console.log(isPalindrome(str1));
 console.log(isPalindrome(str2));
 //changes in master
+//channges in master 2
